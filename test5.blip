@@ -1,0 +1,13 @@
+var x 42
+var y + x 2
+output y
+set x + x y 
+output x
+set y + x 1 
+var z + 2 3
+output + x z 
+set x + + x y z 
+output <= x + y z 
+output ! == x + ~ z y 
+output ~ % x - y z 
+output != z / x y

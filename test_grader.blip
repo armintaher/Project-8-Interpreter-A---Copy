@@ -1,0 +1,200 @@
+text "var ww 10\n"
+var ww 10
+text "set xx 10\n"
+set xx 10
+text "set mm == + >= 0 1 0 10\n"
+set mm == + >= 0 1 0 10
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "output  * 8 0\n"
+output  * 8 0
+text "output  3\n"
+output  3
+text "var mm && / + / == 6 8 / 3 6 || 3 10 4 >= 1 10\n"
+var mm && / + / == 6 8 / 3 6 || 3 10 4 >= 1 10
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set ss 7\n"
+set ss 7
+text "var mm 10\n"
+var mm 10
+text "set bb 1\n"
+set bb 1
+text "set kk % > 4 <= 8 + 6 / 6 2 9\n"
+set kk % > 4 <= 8 + 6 / 6 2 9
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "output  10\n"
+output  10
+text "var aa 6\n"
+var aa 6
+text "var kk ~ != 7 8\n"
+var kk ~ != 7 8
+text "set zz + >= 10 || < 7 4 || 4 >= 0 9 > 8 > >= - 2 5 ! 0 0\n"
+set zz + >= 10 || < 7 4 || 4 >= 0 9 > 8 > >= - 2 5 ! 0 0
+text "output  0\n"
+output  0
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "var yy >= + && <= 8 ! 6 0 2 0\n"
+var yy >= + && <= 8 ! 6 0 2 0
+text "set zz % > % 2 < ~ 6 0 != ~ 10 / 5 0 * != 2 - 9 ! 3 > 2 ! == 2 0\n"
+set zz % > % 2 < ~ 6 0 != ~ 10 / 5 0 * != 2 - 9 ! 3 > 2 ! == 2 0
+text "set rr 6\n"
+set rr 6
+text "var mm % 3 8\n"
+var mm % 3 8
+text "var jj 6\n"
+var jj 6
+text "output  7\n"
+output  7
+text "var ee 9\n"
+var ee 9
+text "output  7\n"
+output  7
+text "output  == 5 < % 0 6 7\n"
+output  == 5 < % 0 6 7
+text "var bb >= 8 7\n"
+var bb >= 8 7
+text "output  - > 10 || 1 9 1\n"
+output  - > 10 || 1 9 1
+text "output  0\n"
+output  0
+text "output  * + 4 5 > * ~ ! 6 2 7\n"
+output  * + 4 5 > * ~ ! 6 2 7
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "output  / 10 0\n"
+output  / 10 0
+text "output  6\n"
+output  6
+text "output  0\n"
+output  0
+text "output  <= <= ~ ! 10 % + ! 4 ! 5 9 9\n"
+output  <= <= ~ ! 10 % + ! 4 ! 5 9 9
+text "output  5\n"
+output  5
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "var ss 2\n"
+var ss 2
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "var ii > % ~ <= 5 - 8 6 / >= 2 + 1 4 < * 2 0 / 0 5 < 4 5\n"
+var ii > % ~ <= 5 - 8 6 / >= 2 + 1 4 < * 2 0 / 0 5 < 4 5
+text "var xx 6\n"
+var xx 6
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "output  ~ + 3 9\n"
+output  ~ + 3 9
+text "output  8\n"
+output  8
+text "output  <= < 8 > 0 4 + / == ~ 2 % 3 8 7 || || 6 == 6 10 + + 6 10 ~ 9\n"
+output  <= < 8 > 0 4 + / == ~ 2 % 3 8 7 || || 6 == 6 10 + + 6 10 ~ 9
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set bb ~ 4\n"
+set bb ~ 4
+text "var ii && / 3 5 * * 4 8 > * != 2 5 && 7 6 + 7 7\n"
+var ii && / 3 5 * * 4 8 > * != 2 5 && 7 6 + 7 7
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set yy 5\n"
+set yy 5
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set gg <= - % ! * 3 10 > && 0 7 / 9 7 && == || 4 6 / 7 4 10 8\n"
+set gg <= - % ! * 3 10 > && 0 7 / 9 7 && == || 4 6 / 7 4 10 8
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set aa 5\n"
+set aa 5
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set rr 6\n"
+set rr 6
+text "set kk >= 8 0\n"
+set kk >= 8 0
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set kk 10\n"
+set kk 10
+text "set pp && % > < - 10 4 < 2 2 + 3 2 5 - 6 7\n"
+set pp && % > < - 10 4 < 2 2 + 3 2 5 - 6 7
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "output  / / 4 - 7 7 > > / 7 3 2 6\n"
+output  / / 4 - 7 7 > > / 7 3 2 6
+text "set ss > 5 || 1 && 8 || 5 ~ 9\n"
+set ss > 5 || 1 && 8 || 5 ~ 9
+text "output  ! 1\n"
+output  ! 1
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "var dd 1\n"
+var dd 1
+text "output  3\n"
+output  3
+text "var ee 1\n"
+var ee 1
+text "output  >= 4 == ~ 6 1\n"
+output  >= 4 == ~ 6 1
+text "output  + > ! 6 < + - 1 1 9 <= % 10 1 1 <= 6 >= >= % 0 9 6 10\n"
+output  + > ! 6 < + - 1 1 9 <= % 10 1 1 <= 6 >= >= % 0 9 6 10
+text "var oo > < / != 1 ! 9 9 8 > 1 == - ~ 0 % 3 7 + - 7 6 3\n"
+var oo > < / != 1 ! 9 9 8 > 1 == - ~ 0 % 3 7 + - 7 6 3
+text "set mm 8\n"
+set mm 8
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set aa >= % 8 / ~ || 10 2 ! 1 && == * 4 < 4 8 % || 9 7 % 7 2 * 8 1\n"
+set aa >= % 8 / ~ || 10 2 ! 1 && == * 4 < 4 8 % || 9 7 % 7 2 * 8 1
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "var qq 2\n"
+var qq 2
+text "output  10\n"
+output  10
+text "set qq >= >= * || 4 > 5 4 > < 7 1 ~ 6 && 9 != 2 5 <= 10 >= * 7 % 10 3 != 5 != 7 5\n"
+set qq >= >= * || 4 > 5 4 > < 7 1 ~ 6 && 9 != 2 5 <= 10 >= * 7 % 10 3 != 5 != 7 5
+text "set pp 6\n"
+set pp 6
+text "output  4\n"
+output  4
+text "output  3\n"
+output  3
+text "var rr 3\n"
+var rr 3
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "set ff 4\n"
+set ff 4
+text "output  > >= >= < 10 * 5 4 2 1 - ~ 10 1\n"
+output  > >= >= < 10 * 5 4 2 1 - ~ 10 1
+text "var ss 9\n"
+var ss 9
+text "output  * % 7 != * % 2 0 3 ! 10 / == != && 1 5 7 10 / + / 0 9 0 8\n"
+output  * % 7 != * % 2 0 3 ! 10 / == != && 1 5 7 10 / + / 0 9 0 8
+text "set vv 8\n"
+set vv 8
+text "output  >= 10 + == 10 >= 1 != 3 9 && 8 2\n"
+output  >= 10 + == 10 >= 1 != 3 9 && 8 2
+text "output  <= 3 1\n"
+output  <= 3 1
+text "var zz && 2 1\n"
+var zz && 2 1
+text "text 'Bonjour'\n"
+text "Bonjour\n"
+text "output  4\n"
+output  4
+text "var ss <= || % ~ / 3 1 3 + == ~ 10 3 7 == + ~ < 2 0 && || 4 4 - 1 0 10\n"
+var ss <= || % ~ / 3 1 3 + == ~ 10 3 7 == + ~ < 2 0 && || 4 4 - 1 0 10
+text "output  ~ - 4 + 4 < 0 > 6 9\n"
+output  ~ - 4 + 4 < 0 > 6 9
